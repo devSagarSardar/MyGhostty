@@ -1,0 +1,42 @@
+# Matugen Ghostty Theme
+
+foreground = #f1dfda
+background = #1a110f
+
+cursor-color = #f1dfda
+cursor-text = #d8c2bc
+
+selection-foreground = #442a22
+selection-background = #e7bdb1
+
+# black
+palette = 0=#4c4c4c
+palette = 8=#f1dfda
+
+# red
+palette = 1=#ffb4ab
+palette = 9=#c49ea0
+
+# green
+palette = 2=#f1dfda
+palette = 10=#9ec49f
+
+# yellow
+palette = 3=#aca98a
+palette = 11=#c4c19e
+
+# blue
+palette = 4=#ffb59f
+palette = 12=#a39ec4
+
+# magenta
+palette = 5=#ffb4ab
+palette = 13=#c49ec4
+
+# cyan
+palette = 6=#f1dfda
+palette = 14=#9ec3c4
+
+# white
+palette = 7=#f0f0f0
+palette = 15=#e7e7e7
