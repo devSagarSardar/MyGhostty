@@ -28,12 +28,12 @@
 ## Recommended ⚡ Quick Install Command for Beginners
 
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/devSagarSardar/MyGhostty/main/install.sh) --yes
+bash <(curl -s https://www.sagaronarch.in/MyGhostty) --yes
 ```
 ## Advanced Install Command for Experts
 
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/devSagarSardar/MyGhostty/main/install.sh)
+bash <(curl -s https://www.sagaronarch.in/MyGhostty)
 ```
 
 The installer interactively walks you through everything. You can also run it unattended using CLI parameters:
